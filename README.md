@@ -31,5 +31,5 @@ Om deze bestanden te runnen moet je Idle openen
 3) Selecteer het bestand dat je wil draaien en open het (Als het goed is kan je nu de source code zien)
 4) Druk op F5 (nu begint het programma te draaien)
 
-
+###WARINING: THE TRAINING PROGRAM WRITES IT'S PROGRESS TO THE HARD DISK, WHEN YOU TRAIN THE AI FOR MORE THEN A NIGHT YOU CAN HAVE MULTIPLE GB'S WORTH OF AI'S###
 
