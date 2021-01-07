@@ -1,0 +1,1 @@
+this file does nothing. It is only here to tell you that the program needs an 'ai' folder. it will later on write the ai's to it
