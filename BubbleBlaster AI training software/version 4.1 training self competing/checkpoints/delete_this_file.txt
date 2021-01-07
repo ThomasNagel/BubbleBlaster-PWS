@@ -1,0 +1,1 @@
+This file is only here because we wan't you to know that this program needs this folder. You can just delete this file, But remember to add the checkpoints folder
