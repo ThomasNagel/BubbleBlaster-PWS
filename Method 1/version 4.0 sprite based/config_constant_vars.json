@@ -1,0 +1,28 @@
+{
+    "window": {
+        "x": 1280, 
+        "y": 720
+    },
+    "bubble": {
+        "MIN_BUB_RADIUS": 10,
+        "MAX_BUB_RADIUS": 30,
+        "MIN_BUB_SPEED": 100,
+        "MAX_BUB_SPEED": 500,
+        "GAP": 100,
+        "BUB_CHANCE": 0.3,
+	"SPEED_POWERUP_RADIUS": 20,
+        "SPEED_POWERUP_CHANCE": 60,
+        "SPEED_POWERUP_MODIFIER": 200,
+        "SPEED_DECREASE": 10
+    },
+    "player": {
+        "PLAYER_RADIUS": 15,
+        "PLAYER_SPEED": 300,
+        "SPEED_SCORE_MODIFIER": 20,
+        "BALANCE_SCORE_MODIFIER": 14
+    },
+    "time": {
+        "GAME_DURATION": 60,
+        "TICKS_PER_SECOND": 60
+    }
+}
