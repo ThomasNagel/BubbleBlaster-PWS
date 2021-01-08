@@ -1,0 +1,14 @@
+{
+    "ai": {
+        "MAX_BUB_INPUT": 5,
+        "SEE_GAP" : 20
+    },
+    "sim":{
+        "GENERATIONS": 10,
+        "MAX_GAMES": 8,
+        "WIN_BONUS": 0
+    },
+    "time": {
+        "TIMESTEP": 0.03
+    }
+}
