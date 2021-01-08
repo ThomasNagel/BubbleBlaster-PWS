@@ -1,0 +1,1 @@
+the training program needs an (empty) older called 'ai' to work propperly
