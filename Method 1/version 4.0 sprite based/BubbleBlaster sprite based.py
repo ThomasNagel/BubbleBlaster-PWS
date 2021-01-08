@@ -329,13 +329,13 @@ class Computer(Player):
     if output[0] > 0.5:
       self.x_cord = self.x_cord + (self.speed / config["time"]["TICKS_PER_SECOND"])
       self.moving = True
-    if output[1] > 0.5:
+    elif output[1] > 0.5:
       self.x_cord = self.x_cord - (self.speed / config["time"]["TICKS_PER_SECOND"])
       self.moving = True
     if output[2] > 0.5:
       self.y_cord = self.y_cord + (self.speed / config["time"]["TICKS_PER_SECOND"])
       self.moving = True
-    if output[3] > 0.5:
+    elif output[3] > 0.5:
       self.y_cord = self.y_cord - (self.speed / config["time"]["TICKS_PER_SECOND"])
       self.moving = True
 
