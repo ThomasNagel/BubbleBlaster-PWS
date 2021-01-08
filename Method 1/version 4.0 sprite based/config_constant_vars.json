@@ -17,7 +17,7 @@
     },
     "player": {
         "PLAYER_RADIUS": 15,
-        "PLAYER_SPEED": 300,
+        "PLAYER_SPEED": 350,
         "SPEED_SCORE_MODIFIER": 20,
         "BALANCE_SCORE_MODIFIER": 14
     },
