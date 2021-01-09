@@ -7,6 +7,7 @@ Do you want to go faster? Go ahead! Just changes the settings. Do you want more 
 Just place the images of the new animation in the right folder and name them in the order they need to play (1.png, 2.png, 3.png, ect.). 
 You have excess to the source code, so you can even changes the game itself. Anyway, sales pitch is over. Let's download the software!
 
+The folder 'Method 1' contains the code that has a working AI, Method 2 works to, but Method 3 is unfortunately a bit jank.
 
 This is a guide to downloading python and the nessecery libraries (Scroll down for the dutch guide).
 
@@ -24,7 +25,7 @@ Vervolgens moeten we twee libraries installeren, voor extra hulp: https://www.yo
 4) Nadat pygame gedownload is type: pip install neat-python
 
 Software draaien:
-Download de bestanden in deze repository die je wil draaien.
+Download de bestanden in deze repository die je wil draaien. 
 Om deze bestanden te runnen moet je Idle openen
 1) Open idle (Druk windows toets e n type idle)
 2) Klik in idle op "file" en vervolgens op "openen"
