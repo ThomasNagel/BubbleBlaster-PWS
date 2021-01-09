@@ -19,7 +19,6 @@ English guide:
 Nederlandse uitleg:
 We moeten eerst python installeren (dit is de programmeertaal waarop onze software draait)
 1) Download Python: https://www.python.org/downloads/ (Voor extra hulp: https://www.youtube.com/watch?v=IDo_Gsv3KVk)
-
 Vervolgens moeten we twee libraries installeren, voor extra hulp: https://www.youtube.com/watch?v=nuufiNScK4s (Deze video laat nog een keer zien hoe je python moet downloaden, begin op tijdstip 0:58 om te zien hoe je de libraries moet downloaden)
 2) Open Opdrachtprompt (Druk windows toest in en type cmd) 
 3) Type in Opdrachtprompt: pip install pygame
