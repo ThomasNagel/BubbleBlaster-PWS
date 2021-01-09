@@ -10,6 +10,10 @@ You have excess to the source code, so you can even changes the game itself. Any
 The folder 'Method 1' contains the code that has a working AI, Method 2 works to, but Method 3 is unfortunately a bit jank.
 The file BubbleBlaster sprites based.py contains the game, the training file contains the code for teh training procedure.
 
+GAME RULES:
+A player wins the game by getting more points in 60 sec then his/her opponent. You can get points by hitting bubbles. Green (radioactive) bubbles give you a speed bonus. 
+You can move youre character with wsda.
+
 This is a guide to downloading python and the nessecery libraries (Scroll down for the dutch guide).
 
 English guide:
