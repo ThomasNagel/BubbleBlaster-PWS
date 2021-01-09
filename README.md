@@ -8,6 +8,7 @@ Just place the images of the new animation in the right folder and name them in 
 You have excess to the source code, so you can even changes the game itself. Anyway, sales pitch is over. Let's download the software!
 
 The folder 'Method 1' contains the code that has a working AI, Method 2 works to, but Method 3 is unfortunately a bit jank.
+The file BubbleBlaster sprites based.py contains the game, the training file contains the code for teh training procedure.
 
 This is a guide to downloading python and the nessecery libraries (Scroll down for the dutch guide).
 
@@ -27,7 +28,7 @@ Vervolgens moeten we twee libraries installeren, voor extra hulp: https://www.yo
 Software draaien:
 Download de bestanden in deze repository die je wil draaien. 
 Om deze bestanden te runnen moet je Idle openen
-1) Open idle (Druk windows toets e n type idle)
+1) Open idle (Druk windows toets in en type idle)
 2) Klik in idle op "file" en vervolgens op "openen"
 3) Selecteer het bestand dat je wil draaien en open het (Als het goed is kan je nu de source code zien)
 4) Druk op F5 (nu begint het programma te draaien)
