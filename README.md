@@ -17,8 +17,19 @@ You can move youre character with wsda.
 This is a guide to downloading python and the nessecery libraries (Scroll down for the dutch guide).
 
 English guide:
-#The project is due in two days so I don't have time left for the english guide.I hope that you can read dutch...
+1) Download Python: https://www.python.org/downloads/ (Tutorial for downloading: https://www.youtube.com/watch?v=IDo_Gsv3KVk)
 
+We need to download two libraries, Tutorail: https://www.youtube.com/watch?v=nuufiNScK4s
+1) Open Commandprompt (type cmd)
+2) Type in Commandprompt: pip install pygame
+3) Type in Commandpropmt: pip install neat-python
+
+Run software:
+Download the files in this repository that you want to run.
+1) Open idle
+2) Klick on "file" and then "open"
+3) Select the file that you want to run and open it
+4) Press F5 to start the program
 
 Nederlandse uitleg:
 We moeten eerst python installeren (dit is de programmeertaal waarop onze software draait)
